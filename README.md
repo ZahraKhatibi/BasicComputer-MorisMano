@@ -1,5 +1,7 @@
 # Morris Mano Basic Computer Design using Logisim
 
+![](pic.png)
+
 ## About The Project
 
 This project is part of a Computer Organization course and aims to design a functional CPU, including an Arithmetic Logic Unit (ALU), and other essential components.
